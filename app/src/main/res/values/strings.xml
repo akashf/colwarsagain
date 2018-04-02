@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">colwarsagain</string>
+    <string name="are_you_cola_lover_or_pepsi_lover_please_vote">Are You Cola Lover Or Pepsi Lover Please Vote</string>
+    <string name="are_you_cola_lover_or_sprite_lover_please_vote_up">Are You Cola Lover Or Sprite Lover Please Vote Up</string>
+    <string name="sprite">Sprite</string>
+    <string name="result">result</string>
+    <string name="play">Play</string>
+    <string name="coke">Coke</string>
+    <string name="see_result">See Result</string>
+    <string name="todo1">TODO</string>
+    <string name="todo">TODO</string>
+</resources>
